@@ -1,0 +1,2 @@
+# JoinMessage
+minecraftbe.net用
