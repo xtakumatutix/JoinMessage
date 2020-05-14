@@ -1,0 +1,5 @@
+name: JoinMessage
+main: xtakumatutix\join\Main
+version: 1.0.0
+api: 3.0.0
+author: xtakumatutix
